@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D68DCD06A77AB0592211C6E9E1220406092D41C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C1A75CD221818650CBD3B08F8BF551B85D80FCD" : 0,
+    "D68DCD06A77AB0592211C6E9E1220406092D41C4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "173C75A3-9EA3-4192-B482-320E4A73A2CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C1A75CD221818650CBD3B08F8BF551B85D80FCD" : "nullable\/nullable\/",
+    "D68DCD06A77AB0592211C6E9E1220406092D41C4" : "nullable\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "nullable",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "nullable.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ohswift\/nullable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C1A75CD221818650CBD3B08F8BF551B85D80FCD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ohswift\/nullable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D68DCD06A77AB0592211C6E9E1220406092D41C4"
+    }
+  ]
+}
